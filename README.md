@@ -1,10 +1,12 @@
 Instructions to Play the Game:
 Welcome to Power X0!
 
-Use the Swap and Destroy power-ups strategically to gain an advantage.
-You can either use a powerup or make a move on the board
-Swap Power-up: Click the "Swap" button, then click on opponents symbol and then press swap again.
-Destroy Power-up: Click the "Destroy" button, then click on a non-empty cell to remove its content.
-The game will automatically switch turns after using power-ups or making a regular move.
+1. Objective: Get three of your symbols (X or O) in a row to win.
+
+2. Power-Ups: Use Swap to switch symbols, Destroy to remove a cell's content, Bomb to clear adjacent cells, and Mystery for a surprise effect.
+
+3. Gameplay: Click cells to place symbols. Power-ups add strategic twists. The game switches turns automatically.
+
+4. Winning: First to get three symbols in a row wins. If the board fills without a winner, it's a draw.
 
 Enjoy the game!
